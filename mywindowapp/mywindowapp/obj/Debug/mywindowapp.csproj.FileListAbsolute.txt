@@ -1,0 +1,12 @@
+e:\mywinapp\mywindowapp\mywindowapp\bin\Debug\mywindowapp.exe.config
+e:\mywinapp\mywindowapp\mywindowapp\bin\Debug\mywindowapp.exe
+e:\mywinapp\mywindowapp\mywindowapp\bin\Debug\mywindowapp.pdb
+e:\mywinapp\mywindowapp\mywindowapp\obj\Debug\mywindowapp.Form1.resources
+e:\mywinapp\mywindowapp\mywindowapp\obj\Debug\mywindowapp.Properties.Resources.resources
+e:\mywinapp\mywindowapp\mywindowapp\obj\Debug\mywindowapp.csproj.GenerateResource.Cache
+e:\mywinapp\mywindowapp\mywindowapp\obj\Debug\mywindowapp.exe
+e:\mywinapp\mywindowapp\mywindowapp\obj\Debug\mywindowapp.pdb
+e:\mywinapp\mywindowapp\mywindowapp\obj\Debug\mywindowapp.csprojResolveAssemblyReference.cache
+D:\imp\C#\Aku_intership\New folder\Removable Disk\ \Fazalaku\mywindowapp\mywindowapp\bin\Debug\mywindowapp.exe.config
+D:\imp\C#\Aku_intership\New folder\Removable Disk\ \Fazalaku\mywindowapp\mywindowapp\obj\Debug\mywindowapp.exe
+D:\imp\C#\Aku_intership\New folder\Removable Disk\ \Fazalaku\mywindowapp\mywindowapp\obj\Debug\mywindowapp.pdb
