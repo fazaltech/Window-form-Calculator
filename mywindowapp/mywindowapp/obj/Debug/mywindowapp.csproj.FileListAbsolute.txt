@@ -10,3 +10,12 @@ e:\mywinapp\mywindowapp\mywindowapp\obj\Debug\mywindowapp.csprojResolveAssemblyR
 D:\imp\C#\Aku_intership\New folder\Removable Disk\ \Fazalaku\mywindowapp\mywindowapp\bin\Debug\mywindowapp.exe.config
 D:\imp\C#\Aku_intership\New folder\Removable Disk\ \Fazalaku\mywindowapp\mywindowapp\obj\Debug\mywindowapp.exe
 D:\imp\C#\Aku_intership\New folder\Removable Disk\ \Fazalaku\mywindowapp\mywindowapp\obj\Debug\mywindowapp.pdb
+C:\Users\muhammad.fazal\Documents\GitHub\Window-form-Calculator\mywindowapp\mywindowapp\bin\Debug\mywindowapp.exe.config
+C:\Users\muhammad.fazal\Documents\GitHub\Window-form-Calculator\mywindowapp\mywindowapp\bin\Debug\mywindowapp.exe
+C:\Users\muhammad.fazal\Documents\GitHub\Window-form-Calculator\mywindowapp\mywindowapp\bin\Debug\mywindowapp.pdb
+C:\Users\muhammad.fazal\Documents\GitHub\Window-form-Calculator\mywindowapp\mywindowapp\obj\Debug\mywindowapp.Form1.resources
+C:\Users\muhammad.fazal\Documents\GitHub\Window-form-Calculator\mywindowapp\mywindowapp\obj\Debug\mywindowapp.Properties.Resources.resources
+C:\Users\muhammad.fazal\Documents\GitHub\Window-form-Calculator\mywindowapp\mywindowapp\obj\Debug\mywindowapp.csproj.GenerateResource.cache
+C:\Users\muhammad.fazal\Documents\GitHub\Window-form-Calculator\mywindowapp\mywindowapp\obj\Debug\mywindowapp.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.fazal\Documents\GitHub\Window-form-Calculator\mywindowapp\mywindowapp\obj\Debug\mywindowapp.exe
+C:\Users\muhammad.fazal\Documents\GitHub\Window-form-Calculator\mywindowapp\mywindowapp\obj\Debug\mywindowapp.pdb
