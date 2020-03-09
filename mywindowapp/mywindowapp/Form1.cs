@@ -37,7 +37,7 @@ namespace mywindowapp
         }
         private void app_function1()
         {
-            this.Text = "I am double ";
+            this.Text = "I am double click";
 
         }
 
