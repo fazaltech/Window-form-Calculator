@@ -12,7 +12,7 @@ namespace mywindowapp
 {
 
     public partial class Form1 : Form
-    { 
+    {  
         static string IsOperand = "";
         static string myval = "";
 
