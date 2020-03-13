@@ -158,14 +158,7 @@ namespace mywindowapp
 
         private void button8_Click(object sender, EventArgs e)
         {
-            if (IsOperand != "")
-            {
-                textBox2.Text = textBox2.Text + "8";
-            }
-            else
-            {
-                textBox2.Text = textBox2.Text + "8";
-            }
+           
 
         }
 
