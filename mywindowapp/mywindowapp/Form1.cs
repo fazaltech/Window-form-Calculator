@@ -220,35 +220,7 @@ namespace mywindowapp
 
         private void button15_Click(object sender, EventArgs e)
         {
-            if (IsOperand == "+")
-            {
-
-                textBox2.Text = Convert.ToString(Convert.ToInt32(myval) + Convert.ToInt32(textBox2.Text));
-
-            }
-            else if (IsOperand == "-")
-            {
-
-                textBox2.Text = Convert.ToString(Convert.ToInt32(myval) - Convert.ToInt32(textBox2.Text));
-
-            }
-
-            else if (IsOperand == "*")
-            {
-
-                textBox2.Text = Convert.ToString(Convert.ToInt32(myval) * Convert.ToInt32(textBox2.Text));
-
-            }
-            else if (IsOperand == "/")
-            {
-
-                textBox2.Text = Convert.ToString(Convert.ToInt32(myval) / Convert.ToInt32(textBox2.Text));
-
-            }
-            else
-            {
-                return;
-            }
+           
         }
     }
 }
