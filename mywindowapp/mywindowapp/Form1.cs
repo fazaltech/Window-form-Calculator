@@ -194,7 +194,7 @@ namespace mywindowapp
         {
 
             myval = textBox2.Text;
-            IsOperand = "-";
+            
             textBox2.Clear();
         }
 
