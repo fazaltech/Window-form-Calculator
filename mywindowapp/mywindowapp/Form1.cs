@@ -207,7 +207,9 @@ namespace mywindowapp
 
         private void button14_Click(object sender, EventArgs e)
         {
-           
+            myval = textBox2.Text;
+            IsOperand = "/";
+            textBox2.Clear();
         }
 
         private void button16_Click(object sender, EventArgs e)
