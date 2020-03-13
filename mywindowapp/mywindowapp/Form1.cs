@@ -18,7 +18,7 @@ namespace mywindowapp
 
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent()
         }
 
         private void Form1_Click(object sender, EventArgs e)
