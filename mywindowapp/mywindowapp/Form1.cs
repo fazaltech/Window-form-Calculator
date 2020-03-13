@@ -139,8 +139,7 @@ namespace mywindowapp
                 textBox2.Text = textBox2.Text + "6";
             }
             else
-            {
-                textBox2.Text = textBox2.Text + "6";
+            { textBox2.Text = textBox2.Text + "6";
             }
         }
 
