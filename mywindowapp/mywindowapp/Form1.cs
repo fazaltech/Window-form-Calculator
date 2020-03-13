@@ -16,7 +16,6 @@ namespace mywindowapp
         static string IsOperand = "";
         static string myval = "";
 
-
         public Form1()
         {
             InitializeComponent();
