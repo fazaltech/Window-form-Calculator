@@ -130,7 +130,7 @@
             this.button7.UseVisualStyleBackColor = true;
             this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
-            // button8
+            // button
             // 
             this.button8.Location = new System.Drawing.Point(194, 100);
             this.button8.Name = "button8";
